@@ -47,5 +47,5 @@ Expense Tracker is a simple Java application that allows users to manage their p
 3. Click "Add Expense" to add the expense to the list.
 4. Click "View Summary" to see a summary of all expenses, including the total amount spent.
 
-## Project Structure
+
 
