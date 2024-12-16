@@ -21,7 +21,7 @@ Expense Tracker is a simple Java application that allows users to manage their p
 
 1. Clone the repository (or download the source code):
     ```sh
-    git clone [https://github.com/your-username/ExpenseTracker.git](https://github.com/k28suh/PersonalExpenseTracker.git)
+    git clone https://github.com/k28suh/PersonalExpenseTracker.git
     ```
 
 2. Navigate to the project directory:
